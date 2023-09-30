@@ -1,0 +1,15 @@
+"D:\amr\applications\IAR embedded workbench\arm\bin\armPROC.dll" 
+
+"D:\amr\applications\IAR embedded workbench\arm\bin\armLMIFTDI.dll" 
+
+"C:\Users\Amr Issa\OneDrive\Desktop\autosar project\Port Driver Final Submission_Amr Issa\Debug\Exe\c.out" 
+
+--plugin="D:\amr\applications\IAR embedded workbench\arm\bin\armbat.dll" 
+
+--device_macro="D:\amr\applications\IAR embedded workbench\arm/config/debugger/TexasInstruments/TM4C123.dmac" 
+
+--flash_loader="D:\amr\applications\IAR embedded workbench\arm/config/flashloader/TexasInstruments/FlashTC4_H6_o.board" 
+
+
+
+
